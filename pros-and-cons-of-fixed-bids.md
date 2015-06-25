@@ -8,3 +8,6 @@ Cons:
 See the following interesting article for more ideas for when to use a fixed bid and when to use an hourly bid:
 http://blog.galvintech.com/discovery/fixed-bid-time-and-materials-and-how-to-manage-them-2129.htm
 :clap:
+Very clear! LGTM :+1
+
+
